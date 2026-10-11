@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-jwt/commit/c27084114e258863b82753fc574a362cd6c62fcd",
       "git:hexsha": "c27084114e258863b82753fc574a362cd6c62fcd",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.3.2"
     },
     {
