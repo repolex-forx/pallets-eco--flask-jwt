@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": "flask-jwt",
+  "versions": [
+    {
+      "commit": "c27084114e258863b82753fc574a362cd6c62fcd",
+      "tag": "0.3.2",
+      "parsed_at": "2026-10-11T01:49:56.831922+00:00"
+    }
+  ]
+}
